@@ -306,6 +306,12 @@ a:link, a:visited{
   .menu__desktop{
     visibility: hidden;
   }
+  .main-container{
+    grid-template-columns: 1fr;
+    margin-right: 150px;
+    margin-left: 120px;
+    min-width: 300px;
+  }
 
 }
 
